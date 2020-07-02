@@ -89,9 +89,9 @@ print(slice)
 
 #      5.      Write a python program to find the length of a tuple...
 
-#tuple1 = tuple("python")
-#print(tuple1)
-#print("The length of a tuple is : " ,len(tuple1))
+tuple1 = tuple("python")
+print(tuple1)
+print("The length of a tuple is : " ,len(tuple1))
 
 
 
