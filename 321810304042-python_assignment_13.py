@@ -104,9 +104,9 @@ print(dict((y,x) for x , y in tuplex))
 
 #      7.      Write a python program to reverse a tuple...
 
-#x = ("python")
-#y = reversed(x)
-#print(tuple(y))
+x = ("python")
+y = reversed(x)
+print(tuple(y))
 
 
 
